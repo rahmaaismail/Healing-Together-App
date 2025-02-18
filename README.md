@@ -21,8 +21,12 @@ Our work earned **3rd place in the Innovative Design category**, recognizing our
 ✅ **Enhanced Privacy Settings** – Ensures secure and confidential data handling.  
 ✅ **Multi-Language Support** – Designed for **accessibility and inclusivity** to reach a diverse audience.  
 
+🖼️ **Attached Images**  
+Screenshots of the prototype can be found in the **images folder** in this repository.
+
 📌 **Technologies Used:**  
 - **Figma** (for UI/UX design and prototyping)  
-- **HTML, CSS, JavaScript** (for the functional website)  
+- **HTML, CSS, JavaScript** (for the functional website)
+
 
 📢 *For inquiries or feedback, feel free to reach out!*  
