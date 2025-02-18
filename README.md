@@ -20,3 +20,9 @@ Our work earned **3rd place in the Innovative Design category**, recognizing our
 ✅ **Caregiver Community Forum** – A secure space for sharing experiences and advice.  
 ✅ **Enhanced Privacy Settings** – Ensures secure and confidential data handling.  
 ✅ **Multi-Language Support** – Designed for **accessibility and inclusivity** to reach a diverse audience.  
+
+📌 **Technologies Used:**  
+- **Figma** (for UI/UX design and prototyping)  
+- **HTML, CSS, JavaScript** (for the functional website)  
+
+📢 *For inquiries or feedback, feel free to reach out!*  
